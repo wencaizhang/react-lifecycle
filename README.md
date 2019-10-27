@@ -1,4 +1,4 @@
-# React 声明周期一探究竟
+# React 声明周期
 
 ## 运行步骤
 
@@ -9,4 +9,4 @@ yarn
 yarn start
 ```
 
-打开 <localhost:3000> 查看效果
+打开 [localhost:3000](localhost:3000) 查看效果
